@@ -1,0 +1,5 @@
+Protocol,Wi-Fi Standard,Throughput (Mbps),Latency (ms),Packet Loss (%),Power Consumption (W)
+TCP,802.11b,54,10,0,2
+UDP,802.11b,30,15,5,2
+TCP,802.11bc,100,5,0,1.5
+UDP,802.11bc,80,7,2,1.5
